@@ -3,10 +3,10 @@ def greet(name, greeting="Hello"):
 
 
 # 1. Only a name argument (uses default greeting)
-greet("Alex")
+greet("Leopold")
 
 # 2. Both a name and a custom greeting (positional arguments)
-greet("Alex", "Good morning")
+greet("Leopold", "Good morning")
 
 # 3. Greeting passed as a keyword argument
-greet("Alex", greeting="Hello")
+greet("Leopold", greeting="Hello")
